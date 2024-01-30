@@ -1,4 +1,6 @@
-
+body{
+  background-color:rgb(66, 168, 134);
+}
 .todo-list {
   background-color:rgb(66, 168, 134);
   padding: 20px;
